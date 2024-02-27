@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Visualization**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Cloud Data Engineering**
 
 - 👯 I’m looking to collaborate on **Data Analytics & Engineering**
 
