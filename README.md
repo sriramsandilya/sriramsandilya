@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sriram Sandilya Kambhampati</h1>
-<h3 align="center">A passionate Data-Analyst from Ohio, USA with a Master's degree in Engineering Management breaking through the world of Analytics and Management.</h3>
+<h3 align="center">A passionate Data enthusiast from USA with a Master's degree in Engineering Management breaking through the world of Analytics and Data Management.</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif">
 
 
