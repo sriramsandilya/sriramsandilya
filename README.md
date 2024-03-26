@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics & Engineering**
 
-- 💬 Ask me about **Python, SQL and Tableau/PowerBI**
+- 💬 Ask me about **Tableau/PowerBI, Python and SQL**
 
 - 📫 How to reach me **sriramsandilyak@gmail.com**
 
