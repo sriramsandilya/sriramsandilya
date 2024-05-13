@@ -1,9 +1,7 @@
-<h1 align="center">Hello 👋, I'm Sriram K</h1>
+<h1 align="center">Hello 👋, I'm Sriram Sandilya</h1>
 <h3 align="center">A passionate Data enthusiast from USA with a Master's degree in Engineering Management breaking through the world of Analytics and Data Management.</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif">
 
-
-- 🔭 I’m currently working on **Data Visualization**
 
 - 👯 I’m looking to collaborate on **Data Analytics & Engineering**
 
