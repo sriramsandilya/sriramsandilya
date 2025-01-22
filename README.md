@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Sriram Kambhampati</h1>
-<h3 align="center">A passionate Data enthusiast from USA with a Master's degree in Engineering Management breaking through the world of Analytics and Data Management.</h3>
+<h3 align="center">A passionate Supply Chain Data enthusiast from USA with a Master's degree in Industrial Management breaking through the world of Supply Chain, Analytics and Data Management.</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif">
 
 
-- 👯 I’m looking to collaborate on **Data Analytics & Engineering**
+- 👯 I’m looking to collaborate on **Supply Chain & Analytics**
 
 - 💬 Ask me about **Tableau/PowerBI, Python and SQL**
 
