@@ -24,8 +24,9 @@
 
 <h3>Languages and Tools:</h3>
 <p>
+
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -45,7 +46,7 @@
   </a>
 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
   </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
