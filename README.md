@@ -1,55 +1,97 @@
-<h1 align="center">Hello 👋, I'm Sriram Sandilya Kambhampati</h1>
-<h3 align="center">A passionate Data-Analyst from USA with a Master's degree in Engineering Management breaking through the world of Analytics and Management.</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif">
+<h1 align="center">Hey there 👋, I'm Sriram Sandilya Kambhampati</h1>
 
+<h3 align="center">📊 Data Analyst | Storyteller with Numbers | Turning Data into Insightful Actions</h3>
 
-- 🔭 I’m currently working on **Data Visualization**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data visualization animation">
+</p>
 
-- 🌱 I’m currently learning **Python**
+---
 
-- 👯 I’m looking to collaborate on **Data Analytics & Engineering**
+### 🧠 About Me
 
-- 💬 Ask me about **Excel, SQL ,PowerBI and Python**
+🎓 I'm a **Data Analyst from the USA** with a **Master’s degree in Engineering Management**, passionate about bridging the gap between **analytics and decision-making**.  
+💡 I love discovering stories hidden within numbers, and I thrive on creating **data-driven solutions** that make an impact.  
+🚀 My mission? To turn raw data into meaningful strategies that drive growth and innovation.  
 
-- 📫 How to reach me **kambhampatis23@gmail.com**
+---
 
-- ⚡ Fun fact **The world's data is expected to double every two years, reaching 175 zettabytes by 2025.**
+### 💼 What I’m Working On
 
-<h3>Connect with me:</h3>
-<p>
+- 🔭 Building **interactive dashboards** and **data stories** using Power BI & Tableau  
+- 🌱 Learning **advanced Python** for automation and predictive analytics  
+- 👯 Collaborating on **Data Engineering & Analytics projects**  
+- 🧩 Exploring **Machine Learning** fundamentals and cloud-based analytics  
+
+---
+
+### 💬 Let’s Talk About
+
+**Excel | SQL | Python | Power BI | Data Visualization | Data Storytelling**
+
+> “Data will talk to you, if you’re willing to listen.” — Jim Bergeson
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/kambhampati-sriram/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kambhampatis23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-c14438?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<h3>Languages and Tools:</h3>
-<p>
+---
 
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="excel" width="40" height="40"/>
-  </a>
+### 🛠️ Languages and Tools
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
+<p align="left">
+  <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
 </p>
+
+---
+
+### 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sriramsandilya&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramsandilya&theme=radical" alt="GitHub Streak" width="45%" />
+</p>
+
+---
+
+### 🌟 Fun Fact
+⚡ The world’s data is expected to **double every two years**, reaching **175 zettabytes** by 2025.  
+Let’s make sure we’re not just collecting it — but understanding it. 😉
+
+---
+
+### 🎯 My Focus for 2025
+
+- 📈 Advance in **Data Engineering & Cloud Analytics (Azure / AWS)**  
+- 🤝 Collaborate on **open-source data projects**  
+- 🧩 Publish insightful **data visualization stories**  
+- 🗣️ Share learning journeys through **blogs & case studies**
+
+---
+
+### 🖼️ Quote to Close With
+
+> “Without data, you’re just another person with an opinion.” — W. Edwards Deming  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sriramsandilya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
