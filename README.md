@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif">
 
 
-- 🔭 I’m currently working on **Data Visualization**
+- 🔭 I’m currently working on **AWS(S3, EC2, RedShift)**
 
 - 🌱 I’m currently learning **Python**
 
